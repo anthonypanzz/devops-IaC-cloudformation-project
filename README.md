@@ -1,4 +1,4 @@
-# Deploy a Highly-Available, Secure and Scalable Web App Using CloudFormation
+# Deploy a Highly-Available and Scalable Web App Using CloudFormation
 
 # Overview
 This project involves deploying a high-availability web application using AWS CloudFormation. The infrastructure setup includes network resources, EC2 instances, a Load Balancer, S3 buckets, security groups, and auto-scaling for the web servers. The goal is to create a scalable solution that serves static content, provides redundancy, and ensures high availability.
