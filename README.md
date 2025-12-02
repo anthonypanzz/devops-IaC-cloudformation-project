@@ -8,7 +8,7 @@ This project involves deploying a high-availability web application using AWS Cl
 ![devops-IaC-diagram](https://github.com/user-attachments/assets/a52489ec-834e-4620-8df7-d27bd6590dda)
 
 
-An infrastructure diagram has been created to illustrate the AWS resources involved in this project. The diagram includes the following resources:
+The architectural diagram has been created to illustrate the AWS resources involved in this project. The diagram includes the following resources:
 
 # Network Resources:
 
@@ -126,7 +126,7 @@ Load Balancer: Must be configured with a Target Group, Health Check, and Listene
 
 
 # Conclusion
-This README outlines the necessary steps for deploying a high-availability web application using CloudFormation. The infrastructure includes networking resources, EC2 instances in an Auto Scaling group, an Application Load Balancer, and an S3 bucket for static content. CloudFormation templates, security group configurations, and automation scripts are provided to facilitate the creation and deletion of the entire infrastructure.
+This article outlines the necessary steps for deploying a high-availability web application using CloudFormation. The infrastructure includes networking resources, EC2 instances in an Auto Scaling group, an Application Load Balancer, and an S3 bucket for static content. CloudFormation templates, security group configurations, and automation scripts are provided to facilitate the creation and deletion of the entire infrastructure.
 
 ## Spin up instructions
 1. change directory (cd) to starter root
